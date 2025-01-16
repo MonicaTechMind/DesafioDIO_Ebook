@@ -10,3 +10,4 @@ Prompt utilizado para geração da imagem do E-book:
 Prompt utilizado para geração do conteúdo do E-book:
 "me faça um ebook com 20 paginas, explicando em detalhes o que é a análise de dados, a importancia, principais ferramentas utilizadas e tecnicas, como são utilizadas em um banco e possibilidades de uso na caixa economica federal"
 
+Link do E-book: https://github.com/MonicaTechMind/DesafioDIO_Ebook/blob/main/E-book_Monica.pdf
